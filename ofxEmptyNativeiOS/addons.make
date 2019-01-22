@@ -1,0 +1,5 @@
+ofxCv
+ofxFaceTracker
+ofxFilterLibrary
+ofxOpenCv
+ofxTiming
